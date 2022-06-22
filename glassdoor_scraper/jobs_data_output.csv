@@ -1,0 +1,65 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue,Easy Apply
+0,ETL Entwickler / Data Engineer (d/m/w),-1,"ETL Entwickler / Data Engineer (d/m/w)
+
+Seit mehr als 130 Jahren legen Versicherte in Deutschland ihre Risiken des Alltags vertrauensvoll in die Hände der DEVK Versicherungen. Heute ist die DEVK bundesweit präsent und betreut die persönlichen Anliegen von über vier Millionen Kunden in allen Versicherungssparten.
+
+Sie leben und lieben BI? Sie sind fasziniert von der Geschwindigkeit, mit der sich die BI-Welt verändert und wollen die digitale Transformation aktiv mitgestalten? Sie überzeugen mit Wissen und Können und „brennen“ für Ihr Thema? Dann sind Sie der richtige Kandidat (d/m/w) für uns!
+
+Ihre Aufgaben
+Betreuung und Weiterentwicklung des bestehenden Data Warehouse (Informatica, Oracle)
+Mitarbeit bei der Überführung der aktuellen BI Landschaft in die Cloud auf Basis Amazon Web Services (AWS)
+Integration von internen und externen Daten
+Datenmodellierung und Entwicklung von ETL/ELT Prozessen
+Technische Analyse von Anforderungen und Entwicklung von Umsetzungskonzepten
+Unterstützung der Kollegen in den Bereichen Architektur, Frontend und Test
+Betrieb der BI Systemlandschaften
+Ihr Profil
+Abgeschlossenes Studium der (Wirtschafts-) Informatik oder vergleichbare Ausbildung mit mehrjähriger einschlägiger Berufserfahrung
+Erfahrung mit ETL Tools, bevorzugt Informatica, sowie Oracle SQL
+Idealerweise erste Erfahrung mit der AWS Cloud und den relevanten Services, z.B. Redshift, Athena, Glue, Spark, S3, EC2 etc.
+Interesse an der Verarbeitung und Auswertung von großen und komplexen Datenmengen
+Kenntnisse der wesentlichen Geschäftsprozesse und Datenstrukturen in Versicherungsunternehmen wünschenswert
+Schnelle Auffassungsgabe, analytisches Denkvermögen und Bereitschaft zur Arbeit in einer agilen Umgebung (SCRUM)
+Unsere Benefits
+
+Sichere Arbeitsplätze in einem stetig wachsenden Unternehmen
+Eine hervorragende arbeitgeberfinanzierte betriebliche Altersversorgung
+Flexible Arbeitszeitmodelle
+Stark vergünstigtes Job-Ticket
+
+Informieren Sie sich über unsere weiteren Benefits.",3.1,"Devk Deutsche Eisenbahn Versicherung Sach- Und Huk-Versicherungsverein A.G. Betriebliche S
+3.1",Cologne,1001 to 5000 Employees,1889,Unknown,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1
+1,Data Engineer CRM (w/m/d),-1,"null
+Extern
+
+Einleitungstext
+
+In einem interdisziplinären und agilen Produktteam entwickeln wir innovative und ganzheitliche IT-Lösungen für unsere Kolleginnen und Kollegen in den Filialen, um ihr Sortiment noch individueller auf die dm-Kunden vor Ort anzupassen. Hierbei gilt es nicht nur technologische und analytische Herausforderungen zu meistern sondern auch die entstehende Softwarelösung in Einklang mit den Anforderungen des Filialalltags zu gestalten.
+
+Deine Aufgaben
+
+Konzeption und Implementierung von Datenintegrationstrecken für Machine Learning Anwendungen mit Technologien im Apache Hadoop Umfeld (z.B. Spark, Kafka, NiFi, Airflow, Zeppelin, HBase & Hive)
+Monitoring sowie ständige Weiterentwicklung und Automatisierung der technischen Lösungen (CI/CD Pipelines, Grafana Dashboards)
+Erschließung neuer Datenquellen sowie Analyse und Aufbereitung strukturierter und unstrukturierter Daten
+Entwicklung von Architekturideen in Themenfeldern wie Microservices, Web-Technologien und Big Data Analytics
+Inhaltliche Mitgestaltung, um den Wert unseres IT-Produkts für unsere Nutzer und somit den dm-Konzern sukzessive zu verbessern
+
+Das bringst du mit
+
+Ein abgeschlossenes Studium der Mathematik, Informatik, Ingenieur- oder Naturwissenschaften oder eine vergleichbare Qualifikation
+Fundiertes technisches Verständnis und praktische Erfahrung in Big Data- & Event-Streaming-Technologien sowie SQL & NoSQL-Datenbanksystemen
+Sehr gute Programmierkenntnisse in Python, Scala oder Java und SQL
+Fortgeschrittene Kenntnisse in den Methoden und Werkzeugen des Software-Engineerings (Clean Code, Testautomatisierung, Quellcodeverwaltung, CI/CD)
+Den Willen und die Fähigkeit, immer wieder neue Herausforderungen anzugehen und dabei eigenverantwortlich Themen zu gestalten
+Sichere Deutschkenntnisse in Wort und Schrift (mind. B2)
+
+Das bieten wir dir
+
+Attraktive Arbeitsbedingungen: Mit flexiblen Arbeitszeiten, einer 37,5 Std.-Woche, 30 Urlaubstagen und Home-Office ermöglichen wir eine ausgewogene Work-Life-Balance.
+Neue Unternehmenszentrale: Helle Büroflächen, ergonomische Arbeitsplätze, moderne Technik und ein Mitarbeiterrestaurant – unser Neubau am Standort Karlsruhe bietet ideale Bedingungen für deinen Arbeitstag dank neuester Ausstattung und innovativer Konzepte.
+Optimale Verkehrsanbindung: Direkt an der Autobahn, einer S-Bahn-Haltestelle und dem DB-Bahnhof Durlach gelegen, sind wir mit PKW und Bahn sehr gut erreichbar. Zudem gibt es ein kostenloses Parkhaus und eine Fahrradgarage, jeweils mit Elektro-Ladestationen.
+Dialogische Unternehmenskultur: Unsere Arbeitsgemeinschaft ist geprägt durch den gegenseitigen Austausch auf Augenhöhe, Dynamik und flache Hierarchien. Dabei spielt Eigenverantwortung eine zentrale Rolle.
+Mitgestaltung und Entwicklung: Bei uns sind kreative Ideen gewünscht. Jeder kann sich einbringen und dazu beitragen, Themen voranzutreiben. Um das zu erreichen, bieten wir vielfältige Weiterbildungsangebote und fachliche sowie persönliche Entwicklungsmöglichkeiten.
+Weitere Vorteile und Zusatzleistungen: Profitiere von weiteren Leistungen wie z.B. dem Mitarbeiterrabatt, einer betrieblichen Altersvorsorge sowie Urlaubs- und Weihnachtsgeld.
+null",4,"dm-drogerie markt
+4.0",Karlsruhe,10000+ Employees,1973,Company - Private,Drug & Health Stores,Retail,$5 to $10 billion (USD),-1
