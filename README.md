@@ -1,22 +1,40 @@
-# Web Scraping 
+# Web Scraping Projects
 
-### scraping_basics:
-using requests and BeautifulSoup to scrape data from wikipedia pages<br> 
-usng selenium to dynamically scrap data from example domain<br> 
-selenium basic process: starting webdriver - navigation and locationg elements - waiting for the results<br>
+This repository demonstrates various web scraping techniques using tools like Requests, BeautifulSoup, and Selenium.
 
-### glassdoor_scraper: real scraping project with selenium 
-starting webdriver: using user agent and makeing the driver more 'undetectale'<br>
-navigation and locationg elements:<br> 
-waiting for the results: waiting for loading and also makeing the driver more 'undetectale'<br>
+---
 
-### Legal Compliance:
-The lawful bases are set out in Article 6 of GDPR, and there are six lawful bases for processing scraped data<br>
-https://www.octoparse.com/blog/gdpr-compliance-in-web-scraping#<br>
+## Scraping Basics
 
-### Common Tools:
-BeautifulSoup: Beautiful Soup is a Python package for parsing HTML and XML documents.<br>
-Selenium: Selenium automates browsers.<br>
+This section introduces fundamental scraping methods:
 
-### Further: 
-Scrapy: An open source and collaborative framework for extracting the data you need from websites.<br>
+1. **Static Scraping** (e.g., Wikipedia pages):
+   - Tools: Requests, BeautifulSoup.
+2. **Dynamic Scraping** (e.g., example domain):
+   - Tool: Selenium.
+   - Workflow: Start WebDriver → Navigate Pages → Locate Elements → Handle Dynamic Content.
+
+---
+
+## Glassdoor Scraper
+
+A project to extract job data from Glassdoor using Selenium.
+
+- **WebDriver Setup**: Includes user-agent rotation and anti-detection measures.
+- **Dynamic Content Handling**: Waits for page elements to fully load.
+- **Output**: Saves data into `jobs_data_output.csv`.
+
+---
+
+## Upwork Scraper
+
+A project to scrape Upwork profiles and job data, organized into modular scripts:
+
+- `setup_environment.py`: Prepares the scraping environment.
+- `explore_data.py`: Explores and analyzes scraped data.
+- `scrape_detail.py`: Scrapes detailed profile information.
+- `scrape_profile.py`: Extracts general profile data.
+- `scrape_ranking.py`: Collects ranking and performance metrics.
+- `connect_database.py`: Handles database connections.
+
+
